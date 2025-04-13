@@ -1,4 +1,6 @@
 import os
+pip install streamlit google-generativeai
+
 import google.generativeai as genai
 
 # Set your API key
